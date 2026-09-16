@@ -10,7 +10,7 @@
 
 <!-- EDIT: change the "lines" text below to update the typing animation -->
 <a href="https://github.com/venkatsai7204-byte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Goka+Venkata+Sai;Customer+Support+Representative+L1+%26+Client+Assist+3.9%2B+Years+in+US+Health+Insurance+Process+Management;Transitioning+into+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Goka+Venkata+Sai+Customer+Support+Representative+L1+%26+Client+Assist+3.9%2B+Years+in+US+Health+Insurance+Process+Management;Transitioning+into+Data+Analytics" alt="Typing SVG" />
 </a>
 
 <br/>
