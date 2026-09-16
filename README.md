@@ -67,7 +67,7 @@ Outside of my current role, I completed my **B.Tech in Electronics & Communicati
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Magic-4B4B4B?style=for-the-badge" alt="Employee Navigator" />
+  <img src="https://img.shields.io/badge/Magic-4B4B4B?style=for-the-badge" alt="EN" />
   <img src="https://img.shields.io/badge/Vidado-4B4B4B?style=for-the-badge" alt="Vidado" />
   <img src="https://img.shields.io/badge/Nitro-4B4B4B?style=for-the-badge" alt="Nitro" />
 </p>
