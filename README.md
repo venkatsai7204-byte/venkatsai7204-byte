@@ -1,4 +1,3 @@
-# Goka Venkata Sai
 <!-- ============================================= -->
 <!--  GitHub Profile README — Goka Venkata Sai     -->
 <!--  Repo name must be: venkatsai7204-byte        -->
